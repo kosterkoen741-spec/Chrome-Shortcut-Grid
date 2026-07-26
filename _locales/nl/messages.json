@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "Pas de lay-out van de snelkoppelingen op je nieuwe tabbladpagina aan tot maximaal 8 rijen.",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "Nieuw tabblad",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "Zoeken op Google...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+ Snelkoppeling toevoegen",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "Nieuwe snelkoppeling toevoegen",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "Snelkoppeling bewerken",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "Naam",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "URL",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "Annuleren",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "Opslaan",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "Bewerken",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "Verwijderen",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "Vul aub beide velden in.",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "Lay-outinstellingen", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "Maximaal aantal rijen met snelkoppelingen:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "1 rij (8 snelkoppelingen)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "2 rijen (16 snelkoppelingen)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 rijen (24 snelkoppelingen)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 rijen (32 snelkoppelingen)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 rijen (40 snelkoppelingen)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 rijen (48 snelkoppelingen)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "Afbeeldingen",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "Meer van Google",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "Account", "description": "Google App" },
+  "appDrive": { "message": "Drive", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Maps", "description": "Google App" },
+  "appSearch": { "message": "Zoeken", "description": "Google App" },
+  "appCalendar": { "message": "Agenda", "description": "Google App" },
+  "appNews": { "message": "Nieuws", "description": "Google App" },
+  "appPhotos": { "message": "Foto's", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "Vertalen", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "Spreadsheets", "description": "Google App" },
+  "appDocs": { "message": "Documenten", "description": "Google App" },
+  "appSlides": { "message": "Presentaties", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Shopping", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "Financiën", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "Mijn advertentiecentrum", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Earth", "description": "Google App" },
+  "appSaved": { "message": "Opgeslagen", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "Contacten", "description": "Google App" },
+  "appTravel": { "message": "Reizen", "description": "Google App" },
+  "appForms": { "message": "Formulieren", "description": "Google App" },
+  "appBooks": { "message": "Boeken", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "Wachtwoordmanager", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

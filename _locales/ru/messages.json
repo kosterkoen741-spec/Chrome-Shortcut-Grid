@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "Настраивайте расположение ярлыков на странице новой вкладки (до 8 строк).",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "Новая вкладка",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "Поиск в Google...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+Добавить ярлык",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "Добавление ярлыка",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "Редактирование ярлыка",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "Название",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "URL",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "Отмена",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "Сохранить",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "Изменить",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "Удалить",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "Пожалуйста, заполните оба поля.",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "Настройки внешнего вида", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "Максимальное количество строк с ярлыками:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "1 строка (8 ярлыков)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "2 строки (16 ярлыков)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 строки (24 ярлыка)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 строки (32 ярлыка)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 строк (40 ярлыков)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 строк (48 ярлыков)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "Картинки",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "Другие сервисы Google",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "Аккаунт", "description": "Google App" },
+  "appDrive": { "message": "Диск", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Карты", "description": "Google App" },
+  "appSearch": { "message": "Поиск", "description": "Google App" },
+  "appCalendar": { "message": "Календарь", "description": "Google App" },
+  "appNews": { "message": "Новости", "description": "Google App" },
+  "appPhotos": { "message": "Фото", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "Переводчик", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "Таблицы", "description": "Google App" },
+  "appDocs": { "message": "Документы", "description": "Google App" },
+  "appSlides": { "message": "Презентации", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Покупки", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "Финансы", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "Мой центр управления рекламой", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Планета Земля", "description": "Google App" },
+  "appSaved": { "message": "Сохраненное", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "Контакты", "description": "Google App" },
+  "appTravel": { "message": "Путешествия", "description": "Google App" },
+  "appForms": { "message": "Формы", "description": "Google App" },
+  "appBooks": { "message": "Книги", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "Менеджер паролей", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

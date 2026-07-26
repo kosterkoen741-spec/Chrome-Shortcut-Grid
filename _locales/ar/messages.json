@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "خصّص مظهر وتنسيق الاختصارات في صفحة علامة التبويب الجديدة حتى 8 صفوف.",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "علامة تبويب جديدة",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "البحث في Google...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+إضافة اختصار",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "إضافة اختصار جديد",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "تعديل الاختصار",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "الاسم",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "عنوان URL",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "إلغاء",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "حفظ",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "تعديل",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "حذف",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "يرجى ملء كلا الحقلين.",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "إعدادات المظهر", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "الحد الأقصى لعدد صفوف الاختصارات:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "صف واحد (8 اختصارات)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "صفان (16 اختصارًا)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 صفوف (24 اختصارًا)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 صفوف (32 اختصارًا)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 صفوف (40 اختصارًا)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 صفوف (48 اختصارًا)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "صور",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "المزيد من Google",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "الحساب", "description": "Google App" },
+  "appDrive": { "message": "Drive", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Maps", "description": "Google App" },
+  "appSearch": { "message": "بحث Google", "description": "Google App" },
+  "appCalendar": { "message": "التقويم", "description": "Google App" },
+  "appNews": { "message": "أخبار Google", "description": "Google App" },
+  "appPhotos": { "message": "صور Google", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "ترجمة Google", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "جداول البيانات", "description": "Google App" },
+  "appDocs": { "message": "المستندات", "description": "Google App" },
+  "appSlides": { "message": "العروض التقديمية", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Shopping", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "المالية", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "مركزي الإعلاني", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Earth", "description": "Google App" },
+  "appSaved": { "message": "العناصر المحفوظة", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "جهات الاتصال", "description": "Google App" },
+  "appTravel": { "message": "السفر", "description": "Google App" },
+  "appForms": { "message": "النماذج", "description": "Google App" },
+  "appBooks": { "message": "الكتب", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "مدير كلمات المرور", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

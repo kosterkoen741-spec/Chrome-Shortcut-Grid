@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "আপনার নতুন ট্যাব পৃষ্ঠার শর্টকাট লেআউটটি ৮টি সারি পর্যন্ত কাস্টমাইজ করুন।",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "নতুন ট্যাব",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "Google-এ খুঁজুন...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+শর্টকাট যোগ করুন",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "নতুন শর্টকাট যোগ করুন",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "শর্টকাট এডিট করুন",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "নাম",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "ইউআরএল (URL)",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "বাতিল করুন",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "সেভ করুন",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "এডিট করুন",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "মুছে ফেলুন",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "অনুগ্রহ করে দুটি ফিল্ডই পূরণ করুন।",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "লেআউট সেটিংস", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "শর্টকাট সারির সর্বোচ্চ সংখ্যা:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "১টি সারি (৮টি শর্টকাট)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "২টি সারি (১৬টি শর্টকাট)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "৩টি সারি (২৪টি শর্টকাট)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "৪টি সারি (৩২টি শর্টকাট)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "৫টি সারি (৪০টি শর্টকাট)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "৬টি সারি (৪৮টি শর্টকাট)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "ছবি",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "Google-এর আরও প্রোডাক্ট",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "অ্যাকাউন্ট", "description": "Google App" },
+  "appDrive": { "message": "Drive", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Maps", "description": "Google App" },
+  "appSearch": { "message": "সার্চ", "description": "Google App" },
+  "appCalendar": { "message": "Calendar", "description": "Google App" },
+  "appNews": { "message": "খবর", "description": "Google App" },
+  "appPhotos": { "message": "Photos", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "অনুবাদ", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "স্প্রেডশীট", "description": "Google App" },
+  "appDocs": { "message": "ডকুমেন্ট", "description": "Google App" },
+  "appSlides": { "message": "প্রেজেন্টেশন", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Shopping", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "অর্থনীতি", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "আমার বিজ্ঞাপন কেন্দ্র", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Earth", "description": "Google App" },
+  "appSaved": { "message": "সংরক্ষিত", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "পরিচিতি", "description": "Google App" },
+  "appTravel": { "message": "ভ্রমণ", "description": "Google App" },
+  "appForms": { "message": "ফর্ম", "description": "Google App" },
+  "appBooks": { "message": "বই", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "পাসওয়ার্ড ম্যানেজার", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

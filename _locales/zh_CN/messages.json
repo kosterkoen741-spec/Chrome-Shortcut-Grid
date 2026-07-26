@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "自定义您的新标签页快捷方式布局，最多可支持 8 行。",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "新标签页",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "在 Google 上搜索...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+添加快捷方式",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "添加新快捷方式",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "修改快捷方式",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "名称",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "网址",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "取消",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "保存",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "修改",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "删除",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "请填写这两个字段。",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "布局设置", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "快捷方式最大行数：", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "1 行（8 个快捷方式）", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "2 行（16 个快捷方式）", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 行（24 个快捷方式）", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 行（32 个快捷方式）", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 行（40 个快捷方式）", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 行（48 个快捷方式）", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "图片",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "更多 Google 应用",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "账号", "description": "Google App" },
+  "appDrive": { "message": "云端硬盘", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "地图", "description": "Google App" },
+  "appSearch": { "message": "搜索", "description": "Google App" },
+  "appCalendar": { "message": "日历", "description": "Google App" },
+  "appNews": { "message": "新闻", "description": "Google App" },
+  "appPhotos": { "message": "相册", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "翻译", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "表格", "description": "Google App" },
+  "appDocs": { "message": "文档", "description": "Google App" },
+  "appSlides": { "message": "幻灯片", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "购物", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "财经", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "我的广告中心", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "地球", "description": "Google App" },
+  "appSaved": { "message": "已保存内容", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "通讯录", "description": "Google App" },
+  "appTravel": { "message": "出游", "description": "Google App" },
+  "appForms": { "message": "表单", "description": "Google App" },
+  "appBooks": { "message": "图书", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "密码管理器", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "电子钱包", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

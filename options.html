@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title data-i18n="optionsTitle">Layout Settings</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: #f8f9fa;
+      color: #3c4043;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .settings-card {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      width: 100%;
+      max-width: 400px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center; /* Centreert alle directe kind-elementen horizontaal */
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 24px;
+      font-size: 20px;
+      font-weight: 600;
+      color: #202124;
+      border-bottom: 1px solid #e8eaed;
+      padding-bottom: 12px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+      width: 100%;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 8px;
+      text-align: center; /* Centreert de labeltekst */
+    }
+
+    .form-group select {
+      width: 100%;
+      padding: 10px 12px;
+      font-size: 14px;
+      border: 1px solid #dadce0;
+      border-radius: 6px;
+      outline: none;
+      background: #fff;
+      text-align: center;
+    }
+
+    .form-group select:focus {
+      border-color: #374151;
+    }
+
+    .save-btn {
+      background-color: #374151;
+      color: white;
+      border: none;
+      width: 100%;
+      padding: 10px 22px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .save-btn:hover {
+      background-color: #4b5563;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+      transform: translateY(-1px);
+    }
+    
+    .save-btn:active {
+      transform: translateY(1px);
+    }
+
+    .status-msg {
+      margin-top: 12px;
+      font-size: 13px;
+      text-align: center;
+      color: #16a34a;
+      font-weight: 500;
+      min-height: 18px;
+      width: 100%;
+    }
+
+    /* Strakke Info/Footer Sectie binnen de kaart */
+    .card-footer-info {
+      margin-top: 24px;
+      padding-top: 16px;
+      border-top: 1px solid #e8eaed;
+      font-size: 12px;
+      color: #70757a;
+      text-align: center;
+      line-height: 1.6;
+      width: 100%; /* Zorgt dat de border over de volledige kaartbreedte loopt */
+    }
+
+    .card-footer-info a {
+      color: #374151;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .card-footer-info a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="settings-card">
+    <h2 data-i18n="optionsTitle">Layout Settings</h2>
+    
+    <div class="form-group">
+      <label for="max-rows-select" data-i18n="labelMaxRows">Maximum number of shortcut rows:</label>
+      <select id="max-rows-select">
+        <option value="1" data-i18n="optRow1">1 Row (8 Shortcuts)</option>
+        <option value="2" data-i18n="optRow2">2 Rows (16 Shortcuts)</option>
+        <option value="3" data-i18n="optRow3">3 Rows (24 Shortcuts)</option>
+        <option value="4" data-i18n="optRow4">4 Rows (32 Shortcuts)</option>
+        <option value="5" data-i18n="optRow5">5 Rows (40 Shortcuts)</option>
+        <option value="6" data-i18n="optRow6">6 Rows (48 Shortcuts)</option>
+        <option value="7" data-i18n="optRow7">7 Rows (56 Shortcuts)</option>
+        <option value="8" data-i18n="optRow8">8 Rows (64 Shortcuts)</option>
+      </select>
+    </div>
+
+    <button class="save-btn" id="save-settings-btn" data-i18n="btnSaveSettings">Save Settings</button>
+    <div class="status-msg" id="status-message"></div>
+
+    <div class="card-footer-info">
+      <span data-i18n="extName">Custom Shortcut Grid</span><br>
+      &copy; 2026 Koenraad Koster<br>
+      <a href="https://lucifera.eu" target="_blank">https://lucifera.eu</a>
+    </div>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

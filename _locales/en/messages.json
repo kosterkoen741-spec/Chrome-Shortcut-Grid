@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "Customize your new tab page shortcuts layout up to 8 rows.",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "New Tab",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "Search Google...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+Add Shortcut",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "Add New Shortcut",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "Edit Shortcut",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "Name",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "URL",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "Cancel",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "Save",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "Edit",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "Delete",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "Please fill out both fields.",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "Layout Settings", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "Maximum number of shortcut rows:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "1 Row (8 Shortcuts)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "2 Rows (16 Shortcuts)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 Rows (24 Shortcuts)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 Rows (32 Shortcuts)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 Rows (40 Shortcuts)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 Rows (48 Shortcuts)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "Images",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "More from Google",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "Account", "description": "Google App" },
+  "appDrive": { "message": "Drive", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Maps", "description": "Google App" },
+  "appSearch": { "message": "Search", "description": "Google App" },
+  "appCalendar": { "message": "Calendar", "description": "Google App" },
+  "appNews": { "message": "News", "description": "Google App" },
+  "appPhotos": { "message": "Photos", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "Translate", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "Spreadsheets", "description": "Google App" },
+  "appDocs": { "message": "Documents", "description": "Google App" },
+  "appSlides": { "message": "Presentations", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Shopping", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "Finance", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "Mijn Advertising Center", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Earth", "description": "Google App" },
+  "appSaved": { "message": "Saved", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "Contacts", "description": "Google App" },
+  "appTravel": { "message": "Travel", "description": "Google App" },
+  "appForms": { "message": "Forms", "description": "Google App" },
+  "appBooks": { "message": "Books", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "Password Manager", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

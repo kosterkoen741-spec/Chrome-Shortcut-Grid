@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "Sesuaikan tata letak pintasan halaman tab baru Anda hingga 8 baris.",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "Tab Baru",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "Telusuri Google...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+Tambahkan Pintasan",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "Tambah Pintasan Baru",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "Edit Pintasan",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "Nama",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "URL",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "Batal",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "Simpan",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "Edit",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "Hapus",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "Harap isi kedua kolom.",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "Pengaturan Tata Letak", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "Jumlah maksimum baris pintasan:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "1 Baris (8 Pintasan)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "2 Baris (16 Pintasan)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 Baris (24 Pintasan)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 Baris (32 Pintasan)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 Baris (40 Pintasan)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 Baris (48 Pintasan)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "Gambar",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "Lainnya dari Google",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "Akun", "description": "Google App" },
+  "appDrive": { "message": "Drive", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Maps", "description": "Google App" },
+  "appSearch": { "message": "Telusuri", "description": "Google App" },
+  "appCalendar": { "message": "Kalender", "description": "Google App" },
+  "appNews": { "message": "Berita", "description": "Google App" },
+  "appPhotos": { "message": "Foto", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "Terjemahan", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "Spreadsheet", "description": "Google App" },
+  "appDocs": { "message": "Dokumen", "description": "Google App" },
+  "appSlides": { "message": "Presentasi", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Shopping", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "Keuangan", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "Pusat Iklan Saya", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Earth", "description": "Google App" },
+  "appSaved": { "message": "Disimpan", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "Kontak", "description": "Google App" },
+  "appTravel": { "message": "Travel", "description": "Google App" },
+  "appForms": { "message": "Formulir", "description": "Google App" },
+  "appBooks": { "message": "Buku", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "Pengelola Sandi", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}

@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "Custom Shortcut Grid",
+    "description": "The name of the extension"
+  },
+  "extDesc": {
+    "message": "Personaliza el diseño de los accesos directos en la página de nueva pestaña hasta con 8 filas.",
+    "description": "The description of the extension"
+  },
+  "pageTitle": {
+    "message": "Nueva pestaña",
+    "description": "The browser tab title for the new tab page"
+  },
+  "searchPlaceholder": {
+    "message": "Buscar en Google...",
+    "description": "Placeholder for the search input"
+  },
+  "addShortcutBtn": {
+    "message": "+Añadir acceso directo",
+    "description": "Text for the main add button"
+  },
+  "modalTitleAdd": {
+    "message": "Añadir nuevo acceso directo",
+    "description": "Title when adding a shortcut"
+  },
+  "modalTitleEdit": {
+    "message": "Editar acceso directo",
+    "description": "Title when editing a shortcut"
+  },
+  "labelName": {
+    "message": "Nombre",
+    "description": "Label for name input"
+  },
+  "labelUrl": {
+    "message": "URL",
+    "description": "Label for URL input"
+  },
+  "btnCancel": {
+    "message": "Cancelar",
+    "description": "Cancel button text"
+  },
+  "btnSave": {
+    "message": "Guardar",
+    "description": "Save button text"
+  },
+  "menuEdit": {
+    "message": "Editar",
+    "description": "Dropdown menu edit option"
+  },
+  "menuDelete": {
+    "message": "Eliminar",
+    "description": "Dropdown menu delete option"
+  },
+  "alertFields": {
+    "message": "Por favor, rellena ambos campos.",
+    "description": "Alert message for empty fields"
+  },
+  "optionsTitle": { 
+    "message": "Ajustes de diseño", 
+    "description": "Title" 
+  },
+  "labelMaxRows": { 
+    "message": "Número máximo de filas de accesos directos:", 
+    "description": "Label" 
+  },
+  "optRow1": { 
+    "message": "1 fila (8 accesos directos)", 
+    "description": "Option" 
+  },
+  "optRow2": { 
+    "message": "2 filas (16 accesos directos)", 
+    "description": "Option" 
+  },
+  "optRow3": { 
+    "message": "3 filas (24 accesos directos)", 
+    "description": "Option" 
+  },
+  "optRow4": { 
+    "message": "4 filas (32 accesos directos)", 
+    "description": "Option" 
+  },
+  "optRow5": { 
+    "message": "5 filas (40 accesos directos)", 
+    "description": "Option" 
+  },
+  "optRow6": { 
+    "message": "6 filas (48 accesos directos)", 
+    "description": "Option"
+  },
+  "navImages": {
+    "message": "Imágenes",
+    "description": "Top navigation Images link"
+  },
+  "moreFromGoogle": {
+    "message": "Más de Google",
+    "description": "More from Google link at the bottom"
+  },
+  "appAccount": { "message": "Cuenta", "description": "Google App" },
+  "appDrive": { "message": "Drive", "description": "Google App" },
+  "appGmail": { "message": "Gmail", "description": "Google App" },
+  "appYouTube": { "message": "YouTube", "description": "Google App" },
+  "appGemini": { "message": "Gemini", "description": "Google App" },
+  "appMaps": { "message": "Maps", "description": "Google App" },
+  "appSearch": { "message": "Buscar", "description": "Google App" },
+  "appCalendar": { "message": "Calendario", "description": "Google App" },
+  "appNews": { "message": "Noticias", "description": "Google App" },
+  "appPhotos": { "message": "Fotos", "description": "Google App" },
+  "appMeet": { "message": "Meet", "description": "Google App" },
+  "appTranslate": { "message": "Traductor", "description": "Google App" },
+  "appVids": { "message": "Vids", "description": "Google App" },
+  "appSheets": { "message": "Hojas de cálculo", "description": "Google App" },
+  "appDocs": { "message": "Documentos", "description": "Google App" },
+  "appSlides": { "message": "Presentaciones", "description": "Google App" },
+  "appGoogleOne": { "message": "Google One", "description": "Google App" },
+  "appShopping": { "message": "Shopping", "description": "Google App" },
+  "appGoogleStore": { "message": "Google Store", "description": "Google App" },
+  "appPlay": { "message": "Play", "description": "Google App" },
+  "appFinance": { "message": "Finanzas", "description": "Google App" },
+  "appKeep": { "message": "Keep", "description": "Google App" },
+  "appAdCenter": { "message": "Mi centro de anuncios", "description": "Google App" },
+  "appClassroom": { "message": "Classroom", "description": "Google App" },
+  "appChat": { "message": "Chat", "description": "Google App" },
+  "appEarth": { "message": "Earth", "description": "Google App" },
+  "appSaved": { "message": "Guardados", "description": "Google App" },
+  "appArtsCulture": { "message": "Arts & Culture", "description": "Google App" },
+  "appGoogleAds": { "message": "Google Ads", "description": "Google App" },
+  "appMerchantCenter": { "message": "Merchant Center", "description": "Google App" },
+  "appContacts": { "message": "Contactos", "description": "Google App" },
+  "appTravel": { "message": "Viajes", "description": "Google App" },
+  "appForms": { "message": "Formularios", "description": "Google App" },
+  "appBooks": { "message": "Libros", "description": "Google App" },
+  "appWebStore": { "message": "Chrome Web Store", "description": "Google App" },
+  "appPasswordManager": { "message": "Gestor de contraseñas", "description": "Google App" },
+  "appAnalytics": { "message": "Google Analytics", "description": "Google App" },
+  "appBlogger": { "message": "Blogger", "description": "Google App" },
+  "appYTMusic": { "message": "YouTube Music", "description": "Google App" },
+  "appWallet": { "message": "Wallet", "description": "Google App" },
+  "appNotebookLM": { "message": "NotebookLM", "description": "Google App" },
+  "appTasks": { "message": "Tasks", "description": "Google App" }
+}
